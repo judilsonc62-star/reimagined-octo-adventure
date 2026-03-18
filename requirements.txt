@@ -1,0 +1,3 @@
+Django
+requests
+# Add any other necessary dependencies for the DJ Digital Center sales management system here
